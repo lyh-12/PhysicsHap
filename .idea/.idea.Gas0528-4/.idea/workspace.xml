@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47007a2a-7515-4dd1-9b0b-a69d43285f9e" name="更改" comment="" />
+    <list default="true" id="47007a2a-7515-4dd1-9b0b-a69d43285f9e" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gas0528-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gas0528-4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +115,7 @@
       <workItem from="1763353622708" duration="1326000" />
       <workItem from="1768378263818" duration="2114000" />
       <workItem from="1768493754390" duration="2372000" />
-      <workItem from="1768531864101" duration="561000" />
+      <workItem from="1768531864101" duration="5381000" />
     </task>
     <task id="LOCAL-00001" summary="Init Commit">
       <option name="closed" value="true" />
@@ -139,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768494937179</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create README.md">
+      <option name="closed" value="true" />
+      <created>1768532470784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768532470784</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
