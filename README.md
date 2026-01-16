@@ -4,15 +4,6 @@ PhysicsHap is a modular haptic framework designed for the rapid construction of 
 
 ---
 
-## Core Philosophy
-
-The PhysicsHap framework decomposes haptic experiences into two separable and combinable core dimensions:
-
-* **Tangible Bodies (Passive)**: Physical props that replicate the geometry, dimensions, and surface texture of virtual objects to provide cutaneous feedback.
-* **Force Engines (Active)**: Actuated modules that deliver kinesthetic feedback, such as resistance, damping, or impact forces.
-
----
-
 ## Key Components
 
 ### 1. Tangible Bodies (Shape Modules)
@@ -44,6 +35,7 @@ The Force Engines utilize integrated actuators to deliver specific kinesthetic p
 4.  **Calibration**: Perform the spatial registration by placing your hand on the physical proxy to align the virtual and physical coordinate systems.
 
 ---
+
 
 
 
