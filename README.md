@@ -2,6 +2,8 @@
 
 PhysicsHap is a modular haptic framework designed for the rapid construction of reconfigurable proxies that provide both high-fidelity shape replication and dynamic force feedback for immersive virtual physics experiments. The framework bridges the gap between digital simulations and physical sensation by integrating passive and active haptic components.
 
+<img src="./images/exps.png">
+
 ---
 
 ## Key Components
@@ -39,6 +41,7 @@ From left to right: Horizontal linear, vertical linear, vibrotactile, and rotati
 4.  **Calibration**: Perform the spatial registration by placing your hand on the physical proxy to align the virtual and physical coordinate systems.
 
 ---
+
 
 
 
