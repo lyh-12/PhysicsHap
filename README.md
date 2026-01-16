@@ -24,6 +24,7 @@ The Force Engines utilize integrated actuators to deliver specific kinesthetic p
   * **Horizontal Rendering**: Uses a rocker arm, connecting rod, and slider to simulate friction or spring tension.
 * **Rotational Force Feedback**: Simulates operational levels in knobs with variable resistance and "snap-to-level" effects.
 * **Vibrotactile Feedback**: Employs a vibration motor for discrete event confirmation, such as the mechanical "click" of a button.
+  <img src="./images/Force Engines.png">
 
 ---
 
@@ -35,6 +36,7 @@ The Force Engines utilize integrated actuators to deliver specific kinesthetic p
 4.  **Calibration**: Perform the spatial registration by placing your hand on the physical proxy to align the virtual and physical coordinate systems.
 
 ---
+
 
 
 
